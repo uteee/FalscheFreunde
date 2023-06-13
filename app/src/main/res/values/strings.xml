@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Falsche Freunde</string>
+    <string name="startButton">Start Game</string>
+    <string name="mqttButton">MQTT</string>
+    <string name="mqttConnect">MQTT Connect</string>
+    <string name="mqttDisconnect">MQTT Disconnect</string>
+    <string name="leaderboardButton">Leaderboard</string>
+    <string name="leaderboard">Leaderborad</string>
+    <string name="soundToggle">Sound</string>
+    <string name="mqttIP">IP:</string>
+    <string name="mqttSensor">MQTT</string>
+    <string name="phoneSensors">Phone Sensors</string>
+    <string name="playername">Playername</string>
+</resources>
